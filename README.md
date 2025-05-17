@@ -55,8 +55,8 @@ Requires .NET Framework 4.8 SDK :
 
 ## 📘 Usage Examples  
 
-### Example 1: Manually Refresh and Terminate a Python Process  
-**Goal**: Terminate a Python process named `python.exe` with high memory usage.  
+### Example 1: Manually refresh and terminate a Python process
+**Objective**: Terminate a process with the path  `D:\test\pyt.py` that has high memory usage.
 
 **Steps**:  
 1. Launch the app. The initial list shows no data (manual refresh required).  
