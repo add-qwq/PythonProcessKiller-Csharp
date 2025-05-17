@@ -3,7 +3,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/add-qwq/PythonProcessKiller-Csharp?style=flat-square)  
 ![GitHub stars](https://img.shields.io/github/stars/add-qwq/PythonProcessKiller-Csharp?style=flat-square)  
-![C# version](https://img.shields.io/badge/C%23-.NET Framework 4.8%2B-blue?style=flat-square)  
+![C# 版本](https://img.shields.io/badge/C%23-.NET%20Framework%204.8%2B-blue?style=flat-square)  
 ![License](https://img.shields.io/github/license/add-qwq/PythonProcessKiller-Csharp?style=flat-square)  
 
 This is the **C# version** of the Python process management tool, with a corresponding **[Python version](https://github.com/add-qwq/PythonProcessKiller-Py)** available (focused on rapid development, flexible modification, and direct invocation in development environments). The C# version prioritizes **long-term maintenance and high-speed operation**, making it suitable for scenarios requiring stable performance. Note: The UI aesthetics are slightly simpler than the Python version, and due to technical limitations, automatic refresh is not implemented—manual refresh via the button is required.  
