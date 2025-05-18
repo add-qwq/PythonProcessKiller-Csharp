@@ -49,7 +49,7 @@ Requires .NET Framework 4.8 SDK :
 
 
 ## 🖥 Interface Overview  
-![English Interface](https://github.com/add-qwq/PythonProcessKiller-Csharp/raw/main/PythonProcessKiller-Py-EN.png?raw=true)  
+![English Interface](https://github.com/add-qwq/PythonProcessKiller-Csharp/raw/main/PythonProcessKiller-Csharp-EN.png?raw=true)  
 *Switch languages via the "Switch Language" button. Core functions are identical across languages.*  
 
 
@@ -147,7 +147,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/add-q
 
 
 ## 🖥 界面概览  
-![中文界面](https://github.com/add-qwq/PythonProcessKiller-Csharp/raw/main/PythonProcessKiller-Py-CN.png?raw=true)  
+![中文界面](https://github.com/add-qwq/PythonProcessKiller-Csharp/raw/main/PythonProcessKiller-Csharp-CN.png?raw=true)  
 *(通过「切换语言」按钮切换中英文，核心功能完全一致。)*  
 
 
